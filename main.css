@@ -1,0 +1,73 @@
+body {
+	background: rgb(255, 255, 255);
+}
+
+.top {
+	text-align: center;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Verdana, sans-serif;
+}
+
+.container {
+	display: grid;
+	background-color: rgb(255, 255, 255);
+
+
+}
+
+.imageone {
+	width: 45%;
+	margin-left: 27.5%;
+	margin-top: 1%;
+	height: 101%;
+	
+}
+
+h3 {
+	text-align: center;
+	width: 50%;
+	margin-left: 16.8%;
+
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Verdana, sans-serif;
+}
+
+.imagetwo {
+	width: 9%;
+	margin-top: -34%;
+	margin-left: 17%;
+}
+
+p {
+	 font-size: 100%;
+	 line-height: 130%;
+	 margin: 0;
+	 padding: 0;
+	 width: 50%;
+	 margin-left: 27%;
+	 margin-top: -1%;
+
+	 
+}
+
+.neo {
+	width: 12%;
+	margin-top: -20%;
+	margin-left: 64%;
+}
+.sex {
+	margin-top: -50%;
+	width: 13%;
+	margin-left: 64%;
+}
+
+.fis {
+	margin-left: 26.7%;
+}
+
+
+
+
+img {
+	width: 35%;
+	margin-left: 27%;
+	margin-top: 1%;
+}
